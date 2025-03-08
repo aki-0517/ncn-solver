@@ -1,0 +1,14 @@
+{
+    "ip": "0.0.0.0",
+    "httpPort": 3000,
+    "wsPort": 3001,
+    "adminPrivateKey": "",
+    "solanaApiUrl": "https://api.mainnet-beta.solana.com",
+    "solanaApiWsUrl": "wss://api.mainnet-beta.solana.com",
+    "ccpName": "SolverNetworkCCP",
+    "proposalStorageKey": "SolverProposalKey",
+    "storageSpace": 1048576,
+    "consensusThreshold": 2,
+    "stakeThreshold": 1000
+  }
+  
