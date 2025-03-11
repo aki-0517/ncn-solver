@@ -1,0 +1,11 @@
+{
+    "operatorId": "operator3",
+    "avsHttpUrl": "http://<AVS_IP>:3000",
+    "avsWsUrl": "ws://<AVS_IP>:3001",
+    "oracleUpdateMethod": "container-stream",
+    "oracleUpdateImage": "oracle-update-solver",
+    "cronSpec": "*/5 * * * *",
+    "optionalCommand": "",
+    "optionalEnv": ""
+  }
+  

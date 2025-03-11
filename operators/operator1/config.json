@@ -1,4 +1,5 @@
 {
+    "operatorId": "operator1",
     "avsHttpUrl": "http://<AVS_IP>:3000",
     "avsWsUrl": "ws://<AVS_IP>:3001",
     "oracleUpdateMethod": "container-stream",
